@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Puma WebSite Opended Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verify Test Case Add  to Cart]]>
+    </line>
+    <line>
+      <![CDATA[Verify The Title of the webPage]]>
+    </line>
+    <line>
+      <![CDATA[Title is matching Buy Sports T-Shirts, Tracks, Running Shoes and Accessories Online - in.puma.com]]>
+    </line>
+    <line>
+      <![CDATA[Click on Men dropdown Passed]]>
+    </line>
+    <line>
+      <![CDATA[Click on Running link Passed]]>
+    </line>
+    <line>
+      <![CDATA[Click on SecondShoe link Passed]]>
+    </line>
+    <line>
+      <![CDATA[Sizechart dropdown clicked passed ]]>
+    </line>
+    <line>
+      <![CDATA[Shoe size selected passed]]>
+    </line>
+    <line>
+      <![CDATA[Click on Add to Cart Passed]]>
+    </line>
+    <line>
+      <![CDATA[Product added to cart is same as selected]]>
+    </line>
+    <line>
+      <![CDATA[TestCase Passed]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="108551" started-at="2018-04-23T14:43:10Z" finished-at="2018-04-23T14:44:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="108551" started-at="2018-04-23T14:43:10Z" finished-at="2018-04-23T14:44:59Z">
+      <class name="in.puma.com.VerfiyCaseTest">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:in.puma.com.VerfiyCaseTest@239963d8]" name="preCondition" is-config="true" duration-ms="61872" started-at="2018-04-23T20:13:10Z" finished-at="2018-04-23T20:14:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser]]>
+            </line>
+            <line>
+              <![CDATA[Puma WebSite Opended Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testA()[pri:0, instance:in.puma.com.VerfiyCaseTest@239963d8]" name="testA" duration-ms="44226" started-at="2018-04-23T20:14:12Z" finished-at="2018-04-23T20:14:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Verify Test Case Add  to Cart]]>
+            </line>
+            <line>
+              <![CDATA[Verify The Title of the webPage]]>
+            </line>
+            <line>
+              <![CDATA[Title is matching Buy Sports T-Shirts, Tracks, Running Shoes and Accessories Online - in.puma.com]]>
+            </line>
+            <line>
+              <![CDATA[Click on Men dropdown Passed]]>
+            </line>
+            <line>
+              <![CDATA[Click on Running link Passed]]>
+            </line>
+            <line>
+              <![CDATA[Click on SecondShoe link Passed]]>
+            </line>
+            <line>
+              <![CDATA[Sizechart dropdown clicked passed ]]>
+            </line>
+            <line>
+              <![CDATA[Shoe size selected passed]]>
+            </line>
+            <line>
+              <![CDATA[Click on Add to Cart Passed]]>
+            </line>
+            <line>
+              <![CDATA[Product added to cart is same as selected]]>
+            </line>
+            <line>
+              <![CDATA[TestCase Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:in.puma.com.VerfiyCaseTest@239963d8]" name="postCondition" is-config="true" duration-ms="2233" started-at="2018-04-23T20:14:56Z" finished-at="2018-04-23T20:14:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- in.puma.com.VerfiyCaseTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
